@@ -3,3 +3,25 @@
     padding: 0;
     box-sizing: border-box;
 }
+
+body {
+    background-color: #007EA7;
+}
+
+.preview-result {
+    min-height: 350px;
+    width: 300px;
+    background-color: #fff;
+}
+  
+#editor {
+    min-height: 350px;
+    max-height: 350px;
+    width: 300px;
+}
+  
+img {
+    width: 280px;
+    height: 200px;
+}
+  
